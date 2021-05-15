@@ -1,0 +1,20 @@
+C:\File\OneDrive\Invatamant\Master\Limbaje si sisteme contemporane de programe 2\LABORATOARE\4\Clase2\Clase2\obj\Debug\Clase2.csprojAssemblyReference.cache
+C:\File\OneDrive\Invatamant\Master\Limbaje si sisteme contemporane de programe 2\LABORATOARE\4\Clase2\Clase2\obj\Debug\ClaseElev.Form1.resources
+C:\File\OneDrive\Invatamant\Master\Limbaje si sisteme contemporane de programe 2\LABORATOARE\4\Clase2\Clase2\obj\Debug\Clase2.Properties.Resources.resources
+C:\File\OneDrive\Invatamant\Master\Limbaje si sisteme contemporane de programe 2\LABORATOARE\4\Clase2\Clase2\obj\Debug\Clase2.csproj.GenerateResource.cache
+C:\File\OneDrive\Invatamant\Master\Limbaje si sisteme contemporane de programe 2\LABORATOARE\4\Clase2\Clase2\obj\Debug\Clase2.csproj.CoreCompileInputs.cache
+C:\File\OneDrive\Invatamant\Master\Limbaje si sisteme contemporane de programe 2\LABORATOARE\4\Clase2\Clase2\bin\Debug\Clase2.exe.config
+C:\File\OneDrive\Invatamant\Master\Limbaje si sisteme contemporane de programe 2\LABORATOARE\4\Clase2\Clase2\bin\Debug\Clase2.exe
+C:\File\OneDrive\Invatamant\Master\Limbaje si sisteme contemporane de programe 2\LABORATOARE\4\Clase2\Clase2\bin\Debug\Clase2.pdb
+C:\File\OneDrive\Invatamant\Master\Limbaje si sisteme contemporane de programe 2\LABORATOARE\4\Clase2\Clase2\obj\Debug\Clase2.exe
+C:\File\OneDrive\Invatamant\Master\Limbaje si sisteme contemporane de programe 2\LABORATOARE\4\Clase2\Clase2\obj\Debug\Clase2.pdb
+C:\Users\Tatiana Spatari\Desktop\Laboratoare\4\Clase2\Clase2\bin\Debug\Clase2.exe.config
+C:\Users\Tatiana Spatari\Desktop\Laboratoare\4\Clase2\Clase2\bin\Debug\Clase2.exe
+C:\Users\Tatiana Spatari\Desktop\Laboratoare\4\Clase2\Clase2\bin\Debug\Clase2.pdb
+C:\Users\Tatiana Spatari\Desktop\Laboratoare\4\Clase2\Clase2\obj\Debug\Clase2.csprojAssemblyReference.cache
+C:\Users\Tatiana Spatari\Desktop\Laboratoare\4\Clase2\Clase2\obj\Debug\ClaseElev.Form1.resources
+C:\Users\Tatiana Spatari\Desktop\Laboratoare\4\Clase2\Clase2\obj\Debug\Clase2.Properties.Resources.resources
+C:\Users\Tatiana Spatari\Desktop\Laboratoare\4\Clase2\Clase2\obj\Debug\Clase2.csproj.GenerateResource.cache
+C:\Users\Tatiana Spatari\Desktop\Laboratoare\4\Clase2\Clase2\obj\Debug\Clase2.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana Spatari\Desktop\Laboratoare\4\Clase2\Clase2\obj\Debug\Clase2.exe
+C:\Users\Tatiana Spatari\Desktop\Laboratoare\4\Clase2\Clase2\obj\Debug\Clase2.pdb
